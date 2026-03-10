@@ -1,4 +1,4 @@
-![Governor's Innovation Fellowship](https://raw.githubusercontent.com/govfellows/.github/main/profile/banner.jpg)
+![Governor's Innovation Fellowship](https://raw.githubusercontent.com/govfellows/.github/main/profile/banner.jpg?v=3)
 
 *California's first cohort of Senior Innovation Fellows — driving AI adoption, accessibility, and digital transformation across state government.*
 
