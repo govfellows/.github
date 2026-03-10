@@ -20,4 +20,4 @@ Browse all Fellowship decks and training materials — no login needed, just cli
 
 ---
 
-📜 [Read our Charter](https://github.com/govfellows/FellowOps/blob/main/CHARTER.md) · 🏛️ [Executive Order N-12-23](https://www.gov.ca.gov/wp-content/uploads/2023/09/AI-Executive-Order-2023.pdf) · 🌐 [Innovation Fellowship Program](https://innovation.ca.gov/innovation-fellowship/)
+🏛️ [Executive Order N-12-23](https://www.gov.ca.gov/wp-content/uploads/2023/09/AI-EO-No.12-_-GGN-Signed.pdf) · 🌐 [Governor's Innovation Fellows Program](https://innovation.ca.gov/our-work/governors-innovation-fellows-program/)
