@@ -26,6 +26,12 @@ Browse all Fellowship decks and training materials at our presentations site:
 
 > No login needed to view presentations — just click the link.
 
+## Quick Start
+
+- **To view files:** Click any project link above, then click on a file to read it
+- **To upload a file:** Open a project, click **Add file** → **Upload files**, drag your file in, then click **Commit changes**
+- **To edit a file:** Open the file, click the pencil icon, make your changes, then click **Commit changes**
+
 ## Need Help?
 
 Reach out to Brent if you have any questions about accessing or using these project spaces (Brent.Vanderburgh@waterboards.ca.gov).
